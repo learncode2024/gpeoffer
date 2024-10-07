@@ -10504,7 +10504,7 @@
                             className: "flex items-center text-[20px] font-bold text-slate-800",
                             children: [(0,
                             We.jsx)("div", {
-                                children: "\u20b9199"
+                                children: "\u20b9299"
                             }), (0,
                             We.jsx)("div", {
                                 className: "ml-4 line-through text-slate-600",
@@ -10575,7 +10575,7 @@
                         className: "mt-5",
                         children: (0,
                         We.jsx)("button", {
-                            onClick: () => o(199),
+                            onClick: () => o(299.78),
                             className: "bg-blue-500 py-2 w-full text-[13px] rounded-full font-bold text-white",
                             children: "Recharge"
                         })
@@ -10595,7 +10595,7 @@
                             className: "flex items-center text-[20px] font-bold text-slate-800",
                             children: [(0,
                             We.jsx)("div", {
-                                children: "\u20b9249"
+                                children: "\u20b9349"
                             }), (0,
                             We.jsx)("div", {
                                 className: "ml-4 line-through text-slate-600",
@@ -10666,7 +10666,7 @@
                         className: "mt-5",
                         children: (0,
                         We.jsx)("button", {
-                            onClick: () => o(249),
+                            onClick: () => o(349.23),
                             className: "bg-blue-500 py-2 w-full text-[13px] rounded-full font-bold text-white",
                             children: "Recharge"
                         })
@@ -10686,7 +10686,7 @@
                             className: "flex items-center text-[20px] font-bold text-slate-800",
                             children: [(0,
                             We.jsx)("div", {
-                                children: "\u20b9279"
+                                children: "\u20b9379"
                             }), (0,
                             We.jsx)("div", {
                                 className: "ml-4 line-through text-slate-600",
@@ -10757,7 +10757,7 @@
                         className: "mt-5",
                         children: (0,
                         We.jsx)("button", {
-                            onClick: () => o(279),
+                            onClick: () => o(379.12),
                             className: "bg-blue-500 py-2 w-full text-[13px] rounded-full font-bold text-white",
                             children: "Recharge"
                         })
@@ -10777,7 +10777,7 @@
                             className: "flex items-center text-[20px] font-bold text-slate-800",
                             children: [(0,
                             We.jsx)("div", {
-                                children: "\u20b9389"
+                                children: "\u20b9499"
                             }), (0,
                             We.jsx)("div", {
                                 className: "ml-4 line-through text-slate-600",
@@ -10848,7 +10848,7 @@
                         className: "mt-5",
                         children: (0,
                         We.jsx)("button", {
-                            onClick: () => o(389),
+                            onClick: () => o(499.67),
                             className: "bg-blue-500 py-2 w-full text-[13px] rounded-full font-bold text-white",
                             children: "Recharge"
                         })
