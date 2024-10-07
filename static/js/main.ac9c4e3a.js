@@ -10413,7 +10413,7 @@
                             className: "flex items-center text-[20px] font-bold text-slate-800",
                             children: [(0,
                             We.jsx)("div", {
-                                children: "\u20b9249.35"
+                                children: "\u20b9249"
                             }), (0,
                             We.jsx)("div", {
                                 className: "ml-4 line-through text-slate-600",
